@@ -935,10 +935,10 @@
                 },
                 "southampton_england": {
                     "bbox": {
-                        "top": "50.956",
-                        "left": "-1.479",
-                        "bottom": "50.877",
-                        "right": "-1.322"
+                        "top": "50.962",
+                        "left": "-1.488",
+                        "bottom": "50.846",
+                        "right": "-1.283"
                     }
                 },
                 "strasbourg_france": {
